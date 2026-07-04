@@ -17,6 +17,5 @@ A lightweight, distraction-free Apple Watch application built with SwiftUI to he
 - **Repository Size:** 3 tracked files
 - **Latest Update:** `6c4659b Initial commit: watchOS App`
 
-
 ---
 *☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
